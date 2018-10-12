@@ -1,0 +1,10 @@
+.bloque-campos{
+    border: solid 1px #d4d4d4;padding: 1em !important;
+}
+
+legend{
+    width: 25% !important;
+    padding-left: 0.5em;
+}
+
+

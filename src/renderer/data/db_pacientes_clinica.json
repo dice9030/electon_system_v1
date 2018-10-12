@@ -1,0 +1,29 @@
+{   
+    "pacientes":[
+        {
+            "codigo":"1",
+            "dni":"222222",
+            "nombre":"diego",
+            "apellido_paterno":"celis",
+            "apellido_materno":"gotia",
+            "residencia":"jr. pinar del rio 2279"      
+        }, 
+        {
+            "codigo":"1",
+            "dni":"3333333",
+            "nombre":"leo",
+            "apellido_paterno":"celis",
+            "apellido_materno":"gotia",
+            "residencia":"jr. pinar del rio 2279"      
+        }, 
+        {
+            "codigo":"1",
+            "dni":"44444444",
+            "nombre":"dariel",
+            "apellido_paterno":"celis",
+            "apellido_materno":"gotia",
+            "residencia":"jr. pinar del rio 2279"      
+        }
+     
+    ]    
+}

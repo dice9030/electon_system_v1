@@ -1,0 +1,24 @@
+{
+    "usuarios": [
+        {
+            "codigo": "1",
+            "dni": "12345678",
+            "nombre": "diego",
+            "apellido_paterno": "celis",
+            "apellido_materno": "gotia",
+            "perfil": "1",
+            "usuario": "admin",
+            "password": "123456"
+        },
+        {
+            "codigo": "1",
+            "dni": "345533",
+            "nombre": "dariel",
+            "apellido_paterno": "celis",
+            "apellido_materno": "rossi",
+            "perfil": "2",
+            "usuario": "coordinador",
+            "password": "123456"
+        }
+    ]
+}

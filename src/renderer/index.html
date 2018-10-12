@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>	
+	<link href="bookstore/css/bootstrap.css" rel="stylesheet" >
+	<link href="bookstore/css/style-proeducative.css" rel="stylesheet" >    	  
+  <script src="controller/UserController.js"></script>
+  
+</head>
+<body>  
+    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">      
+  		<img src="bookstore/img/logo.jpg" style="width: 8em; height: 8em;">
+  		<p>
+  			<h5>SISTEMA FRARA</h5>	    			
+  		</p>
+    </div>
+		<div>
+				<div class="container" v-show="frmuser">
+					<div class="card-deck mb-3 text-center">
+						<div  class="card mb-12 ">						
+							
+							<div id="show-user" class="v-home">
+								<div class="form-group">
+									<label for="usuario" > <strong class="h6">USUARIO</strong> </label>
+									<input type="text" class="form-control text-center" id="txt-user" aria-describedby="emailHelp" placeholder="Ingresar usuario" value="">			    
+								</div>
+								<div class="form-group">
+									<label for="usuario" > <strong class="h6">PASSWORD</strong> </label>
+									<input type="password" class="form-control text-center" id="txt-pwd" aria-describedby="emailHelp" placeholder="Ingresar usuario" value="">			    
+								</div>		  
+								<button id="btn-next" class="btn btn-primary btn-sm">INGRESAR</button>
+							</div>																					
+						</div>
+					</div>
+			
+				</div>
+		</div>
+
+
+
+    <footer class="  pt-4 my-md-5 pt-md-5  text-center">
+    	<span class="text-secondary" > Terminos y condiciones</span>
+    </footer>
+</body>
+</html>

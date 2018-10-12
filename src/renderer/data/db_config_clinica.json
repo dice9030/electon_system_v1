@@ -1,0 +1,43 @@
+{
+    "nro_visitas":"3",
+    "region":[
+        {
+            "codigo":"1",
+            "descripcion":"lima"
+        },
+        {
+            "codigo":"2",
+            "descripcion":"chorrillos"
+        },
+        {
+            "codigo":"3",
+            "descripcion":"san martin de porres"
+        }
+    ],
+    "tipo_actor":[
+            {
+                "codigo":"1",
+                "descripcion":"agente comunitario de salud"
+            },
+            {
+                "codigo":"2",
+                "descripcion":"lideres comunales"
+            },
+            {
+                "codigo":"3",
+                "descripcion":"estudiante"
+            },
+            {
+                "codigo":"4",
+                "descripcion":"ejercito"
+            },
+            {
+                "codigo":"5",
+                "descripcion":"rondero"
+            },
+            {
+                "codigo":"6",
+                "descripcion":"otros (*)"
+            }
+        ]
+}
